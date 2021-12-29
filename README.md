@@ -1,4 +1,4 @@
-- 👋 Hola, soy @fedejfiore
-- 👀 Estoy interezado en lenguajes de progrmacion y nuevas tecnologias
-- 🌱 Estoy estudiando en CoderHouse diseño web full stack
-- 📫 En la mayoria de las redes me encuentran como @fedejfiore
+- Hola, mi nombre es Federico Julio Fiore
+- Estoy interezado en lenguajes de progrmacion y nuevas tecnologias 
+- Estoy estudiando en CoderHouse diseño web full stack
+- En la mayoria de las redes me encuentran como @fedejfiore
